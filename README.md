@@ -1,7 +1,7 @@
 # fetch-users-app
 
 ## Features
-- Display a list of users with their name, username, and email.
+- Display a list of users
 - Search for users by username.
 
 ## Technologies
